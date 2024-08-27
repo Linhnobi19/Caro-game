@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyMenuBar.qml</file>
+        <file>FirstEntry.qml</file>
+        <file>MyButton.qml</file>
+        <file>PlayGame.qml</file>
+        <file>InfoMessage.qml</file>
+        <file>SearchInfo.qml</file>
+        <file>GuideScreen.qml</file>
+        <file>Image/background.jpg</file>
+        <file>Image/back2.jpg</file>
+        <file>Image/guide.png</file>
+        <file>Image/icegif.gif</file>
+        <file>Image/icegif-137.gif</file>
+        <file>Image/drawGame.gif</file>
+        <file>Image/giphy.gif</file>
+        <file>Image/sad-nuggie-gaming.gif</file>
+    </qresource>
+</RCC>

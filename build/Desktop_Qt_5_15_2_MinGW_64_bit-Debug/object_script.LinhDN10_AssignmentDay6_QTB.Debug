@@ -1,0 +1,12 @@
+debug/Board.o
+debug/Cell.o
+debug/GameController.o
+debug/Player.o
+debug/PlayerController.o
+debug/main.o
+debug/qrc_qml.o
+debug/moc_Board.o
+debug/moc_Cell.o
+debug/moc_GameController.o
+debug/moc_Player.o
+debug/moc_PlayerController.o

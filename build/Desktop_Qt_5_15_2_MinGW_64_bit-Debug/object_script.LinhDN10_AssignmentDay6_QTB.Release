@@ -1,0 +1,12 @@
+release/Board.o
+release/Cell.o
+release/GameController.o
+release/Player.o
+release/PlayerController.o
+release/main.o
+release/qrc_qml.o
+release/moc_Board.o
+release/moc_Cell.o
+release/moc_GameController.o
+release/moc_Player.o
+release/moc_PlayerController.o
