@@ -19,6 +19,12 @@ Nếu chọn yes thì lúc này đang ở lượt người chơi nào thì ngư�
 Hoặc là nếu như muốn Undo thì sẽ remove nước trước đó và trở lại phần di chuyển của player vừa ấn undo
 Còn nút cuối là Quit match thì sẽ hiển thị 1 message box để xác nhận người chơi không còn tiếp tục và out game --> kết thúc chương trình --> không ảnh hưởng đến kết quả trận đấu
 
+Tiếp đến là khi đấu BOT
+Với Bot mode hard thì sử dụng thuật toán minimax để tìm ra nước đi tiếp theo. Khi Bot đang suy nghĩ thì ta sẽ không thể tương tác với các nút phía dưới bàn cờ cũng những là click trên bàn cờ được nữa 
+Và khi đã vào trận đấu thì không thể chọn lựa mức độ khó cho game được nữa.
+![image](https://github.com/user-attachments/assets/4a02809d-ef90-465c-b121-f5fc45743df1)
+
+
 Tiếp đến là khi có người chiến thắng thì sẽ hiển thị màn hình thông báo kết quả trận đấu
 ![image](https://github.com/user-attachments/assets/3c35ed56-c3dd-45f0-8c74-427e3de8b61a)
 Và nếu Quitmatch thì sẽ quay về màn hình đăng nhập
